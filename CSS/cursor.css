@@ -1,3 +1,6 @@
+/*
+修改鼠标指针样式
+*/
 body{
     cursor: url("https://cdn.jsdelivr.net/gh/thisred/CDN/cursor/Arrow.cur"),auto;
 }
