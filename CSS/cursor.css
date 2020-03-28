@@ -1,0 +1,15 @@
+body{
+    cursor: url("https://cdn.jsdelivr.net/gh/thisred/CDN/cursor/Arrow.cur"),auto;
+}
+a{
+    cursor: url("https://cdn.jsdelivr.net/gh/thisred/CDN/cursor/Link Select.cur"),auto;
+}
+p{
+    cursor: url("https://cdn.jsdelivr.net/gh/thisred/CDN/cursor/Text.cur"),auto;
+}
+input{
+    cursor: url("https://cdn.jsdelivr.net/gh/thisred/CDN/cursor/Text.cur"),auto;
+}
+code{
+    cursor: url("https://cdn.jsdelivr.net/gh/thisred/CDN/cursor/Text.cur"),auto;
+}
